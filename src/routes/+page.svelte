@@ -1,6 +1,13 @@
 <script lang="ts">
-	import RecipeList from '$lib/RecipeList.svelte';
 	let { data } = $props();
 </script>
 
-<RecipeList recipes={data.recipes} />
+<ul class="flex flex-col gap-8">
+	{#each data.recipes as recipe}
+		<li>
+			<a href={`/${recipe.slug}`}>
+				<div class="text-xl font-bold underline md:text-4xl">{recipe.meta.title}</div>
+			</a>
+		</li>
+	{/each}
+</ul>
