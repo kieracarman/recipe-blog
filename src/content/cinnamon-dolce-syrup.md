@@ -2,27 +2,18 @@
 title: Cinnamon Dolce Syrup
 ---
 
-## Simple syrup
-
-- 330g granulated sugar
-- 440g hot water
-
 ## Cinnamon Dolce syrup
+
+(makes 1 bottle - 25 fl oz)
 
 **Bring to a boil, only until sugar is fully dissolved:**
 
-Good but too thick
-
-- 250g water
-- 500g brown sugar
-- 3g cinnamon
-
-Try this:
-
-- 440g water
-- 330g dark brown sugar
-- 3g cinnamon
+440g water
+500g dark brown sugar
+3g ground cinnamon
 
 **Take off the heat and stir in:**
 
-- splash of clear vanilla extract
+5g clear vanilla extract
+
+**Let stand for a minute or two, then skim the scum off the top and bottle.**
