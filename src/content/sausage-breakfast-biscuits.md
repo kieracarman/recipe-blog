@@ -35,5 +35,4 @@ title: Sausage Breakfast Biscuits
 
 **Mix to combine dry ingredients, wet ingredients, meat, and veggies.**
 
-Scoop and bake at 375°F for 15-17 minutes
-
+**Scoop and bake at 375°F for 15-17 minutes.**

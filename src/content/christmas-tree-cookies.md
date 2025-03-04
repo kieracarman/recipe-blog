@@ -2,8 +2,9 @@
 title: Christmas Tree Cookies
 ---
 
-makes about 6 dozen cookies
-pre-heat oven to 375F
+(makes about 6 dozen cookies)
+
+**Pre-heat oven to 375F.**
 
 **Beat together:**
 600g sugar
@@ -33,4 +34,3 @@ green food coloring
 Bake at 375F for 10-11 minutes, if they brown it's been too long. Cool on a wire rack.
 
 Melt white chocolate and dip the edges of the trees to look like snow.
-

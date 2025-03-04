@@ -5,25 +5,21 @@ title: Turkish Bread
 Recipe and ingredients for 12 pieces of flat bread
 
 **In a small bowl mix:**
-
-- 20g yeast
-- 20g sugar
-- 330g warm water
+20g yeast
+20g sugar
+330g warm water
 
 **Add to bowl:**
+330g warm milk
 
-- 330g warm milk
-
-Stir to dissolve yeast. Cover for 10 minutes.
+**Stir to dissolve yeast. Cover for 10 minutes.**
 
 **Sift together:**
-
-- 1000g flour
-- 10g salt
+1000g flour
+10g salt
 
 **Add to yeast mix:**
-
-- 30g olive oil
+30g olive oil
 
 Knead the dough by hand for 2 minutes. The dough should be very soft and a little sticky. Cover the dough for 1 hour and leave in a warm place to rise until doubled in size.
 
@@ -36,4 +32,3 @@ Cook on back of overturned wok without oil, on medium heat for about 3 minutes. 
 Cover hot flatbreads immediately with a tea towel to keep them soft.
 
 All actions are very fast, while one bread is fried, we roll the next one. Fry in a pan in the same way until the bread is golden brown on both sides. Finely chop some parsley. Brush each flat bread with olive oil. Sprinkle with parsley. Add red pepper to taste.
-
