@@ -10,7 +10,10 @@
 	</div>
 {:else}
 	<article>
-		<h1>{data.meta.title}</h1>
+		<a href="/" class="mb-4 block opacity-50 transition-opacity duration-200 hover:opacity-90"
+			>← back to recipes</a
+		>
+		<h1 class="mb-2">{data.meta.title}</h1>
 		<div>{@html data.content}</div>
 	</article>
 {/if}
