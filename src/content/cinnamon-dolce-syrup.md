@@ -2,8 +2,6 @@
 title: Cinnamon Dolce Syrup
 ---
 
-## Cinnamon Dolce syrup
-
 (makes 1 bottle - 25 fl oz)
 
 **Bring to a boil, only until sugar is fully dissolved:**
