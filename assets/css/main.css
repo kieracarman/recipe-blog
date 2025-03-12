@@ -1,0 +1,37 @@
+@import "tailwindcss";
+@source "hugo_stats.json";
+
+:root {
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer base {
+  body {
+    @apply min-h-screen bg-white text-black dark:bg-zinc-900 dark:text-white;
+  }
+
+  h1 {
+    @apply mb-8 text-2xl font-bold;
+  }
+  h2 {
+    @apply mb-4 text-xl font-bold;
+  }
+  h3 {
+    @apply mb-4 text-lg font-bold;
+  }
+  p,
+  li {
+    @apply mb-4 text-base;
+  }
+}
+
+@layer components {
+  .nav-button {
+    @apply rounded-lg border-2 border-current px-6 py-3 text-base transition-colors duration-200 hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black;
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "article",
+      "body",
+      "div",
+      "h1",
+      "h2",
+      "head",
+      "html",
+      "img",
+      "li",
+      "link",
+      "main",
+      "meta",
+      "ol",
+      "p",
+      "script",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "block",
+      "duration-200",
+      "flex",
+      "flex-col",
+      "font-bold",
+      "gap-8",
+      "hover:opacity-90",
+      "max-w-[65ch]",
+      "mb-2",
+      "mb-4",
+      "md:text-4xl",
+      "min-h-full",
+      "mx-auto",
+      "opacity-50",
+      "p-8",
+      "text-xl",
+      "transition-opacity",
+      "underline"
+    ],
+    "ids": [
+      "instructions"
+    ]
+  }
+}

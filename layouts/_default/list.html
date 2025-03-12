@@ -1,0 +1,11 @@
+{{ define "main" }}
+<ul class="flex flex-col gap-8">
+  {{ range .Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">
+      <div class="text-xl font-bold underline md:text-4xl">{{ .Title }}</div>
+    </a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
