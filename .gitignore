@@ -1,4 +1,7 @@
 node_modules
+hugo.exe
+hugo.linux
+hugo.darwin
 
 # Output
 .output
@@ -7,6 +10,8 @@ node_modules
 .wrangler
 /.svelte-kit
 /build
+/public
+/resources/_gen
 
 # OS
 .DS_Store
