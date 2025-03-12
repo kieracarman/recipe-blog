@@ -20,6 +20,7 @@ target = 'assets/notwatching/hugo_stats.json'
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+hardWraps = true
 
 [build]
 [build.buildStats]

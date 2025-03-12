@@ -10,8 +10,8 @@ hugo.darwin
 .wrangler
 /.svelte-kit
 /build
-/public
-/resources/_gen
+/public/
+/resources/_gen/
 
 # OS
 .DS_Store

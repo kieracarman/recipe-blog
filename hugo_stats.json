@@ -4,19 +4,18 @@
       "a",
       "article",
       "body",
+      "br",
       "div",
       "h1",
       "h2",
       "head",
       "html",
-      "img",
       "li",
       "link",
       "main",
       "meta",
-      "ol",
       "p",
-      "script",
+      "strong",
       "title",
       "ul"
     ],
@@ -41,7 +40,11 @@
       "underline"
     ],
     "ids": [
-      "instructions"
+      "dough",
+      "grandmas-fudge-frosting",
+      "sauce",
+      "torta-di-cioccolato-e-mandorle",
+      "yogurt-sauce"
     ]
   }
 }
