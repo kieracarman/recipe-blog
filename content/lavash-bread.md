@@ -11,6 +11,6 @@ title: Lavash bread
 300g flour
 3g salt
 
-**Knead until smooth, rest for 15 min. Divide into 6-8 pieces, let rise for 15-20 min.
+**Knead until smooth, rest for 15 min. Divide into 6-8 pieces, let rise for 15-20 min.**
 
 **Roll on board with lots of flour until desired thickness. Cook on hot overturned wok.**
