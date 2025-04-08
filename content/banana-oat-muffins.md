@@ -21,4 +21,7 @@ title: Banana Oat Muffins
 1/2 tsp vanilla extract
 225g mashed bananas
 
+**Optionally, mix in:**
+200g walnut pieces
+
 **Fill muffin cups 3/4 full, bake 18­-20 minutes.**

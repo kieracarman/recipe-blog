@@ -18,9 +18,9 @@ title: Black Magic Cake
 **Sift in:**
 220g flour
 95g cocoa
-2 tsp baking soda
-1 tsp baking powder
-1 tsp salt
+12g baking soda
+3g baking powder
+5g salt
 
 **Stir to combine.**
 
