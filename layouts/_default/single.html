@@ -9,4 +9,44 @@
   <h1 class="mb-2">{{ .Params.title }}</h1>
   <div>{{ .Content }}</div>
 </article>
+
+<script>
+  // Check for Wake Lock API support
+  if ("wakeLock" in navigator) {
+    let wakeLock = null;
+
+    // Request wake lock when page becomes visible
+    const requestWakeLock = async () => {
+      try {
+        wakeLock = await navigator.wakeLock.request("screen");
+        console.log("Screen Wake Lock activated");
+
+        // Release wake lock when page loses visibility
+        document.addEventListener("visibilitychange", () => {
+          if (wakeLock !== null && document.visibilityState === "hidden") {
+            wakeLock.release();
+            wakeLock = null;
+          }
+        });
+      } catch (err) {
+        console.error("Error acquiring wake lock:", err);
+      }
+    };
+
+    // Initial request (only if page is visible)
+    if (document.visibilityState === "visible") {
+      requestWakeLock();
+    }
+
+    // Re-request wake lock when returning to page
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible" && !wakeLock) {
+        requestWakeLock();
+      }
+    });
+  } else {
+    console.warn("Screen Wake Lock API not supported");
+  }
+</script>
+
 {{ end }}
