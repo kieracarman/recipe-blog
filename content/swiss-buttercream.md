@@ -13,3 +13,6 @@ title: Swiss Buttercream
 
 **Whip in 2tbsp at a time:**
 565g or 5 sticks butter
+
+**Notes:**
+Add cocoa powder, nutella, freeze-dried berries, marshmallow fluff, or other flavorings as desired.
