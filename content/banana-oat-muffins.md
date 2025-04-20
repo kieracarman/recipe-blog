@@ -7,9 +7,9 @@ title: Banana Oat Muffins
 **Whisk together:**
 190g flour
 85g rolled oats
-2 tsp baking powder
-1 tsp baking soda
-1 tsp salt
+6g baking powder
+6g tsp baking soda
+3g salt
 
 **Beat thoroughly:**
 1 egg
