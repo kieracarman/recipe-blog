@@ -1,4 +1,6 @@
-# Coffee Cake Muffins
+---
+title: Coffee Cake Muffins
+---
 
 **Preheat your oven to 400°F and line or grease a standard 12-cup muffin tin.**
 
