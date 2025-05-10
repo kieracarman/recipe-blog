@@ -2,7 +2,7 @@
 title: Coffee Cake Muffins
 ---
 
-**Preheat your oven to 400°F and line or grease a standard 12-cup muffin tin.**
+**Preheat your oven to 425°F and line or grease a standard 12-cup muffin tin.**
 
 ## Streusel Topping
 
@@ -40,6 +40,6 @@ title: Coffee Cake Muffins
 
 **Divide the batter evenly among the 12 prepared muffin cups. Fill each cup about two-thirds to three-quarters full.**
 
-Generously sprinkle the chilled streusel topping over the batter in each muffin cup.
+**Generously sprinkle the chilled streusel topping over the batter in each muffin cup.**
 
 **Bake for 7 minutes. Without opening the oven door, reduce the oven temperature to 375°F. Continue to bake for another 11-15 minutes, or until a wooden skewer inserted into the center of one comes out clean or with only a few moist crumbs attached.**
