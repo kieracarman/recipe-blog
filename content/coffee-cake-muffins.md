@@ -28,8 +28,8 @@ title: Coffee Cake Muffins
 3g salt
 
 **Using an immersion blender, blend for 60-90 seconds until the mixture is homogenous, lighter in color, slightly thickened, and the sugar is fully dissolved:**
-150g sugar
 100g eggs (approx. 2 eggs), at room temperature
+185g sugar
 
 **Drizzle in slowly while blending to emulsify:**
 110g grapeseed oil
