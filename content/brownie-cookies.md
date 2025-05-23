@@ -5,7 +5,7 @@ preheat oven to 350°F
 
 **Mix until fully dissolved:**
 155g brown sugar
-15g granulated sugar
+25granulated sugar
 3g salt
 1 egg
 
