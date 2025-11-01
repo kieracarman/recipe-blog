@@ -26,4 +26,4 @@ pinch of nutmeg
 
 **Divide dough into 8 equal portions and roll into smooth balls. Refrigerate in an airtight container for 12 hours, up to 1 week.**
 
-**Preheat oven to 350F. Bake cookies until puffed and lightly brown, about 22 minutes, or to an internal temperature of between 175 and 185F.**
+**Preheat oven to 350F. Bake cookies until puffed and lightly brown, about 30 minutes, or to an internal temperature of between 175 and 185F.**
