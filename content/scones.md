@@ -3,15 +3,13 @@ title: Scones
 ---
 *makes 8 scones*
 
-# Scones
-
 **Preheat oven to 400F.**
 
 **Whisk together:**
 250g flour
 65g sugar
-1 tbsp baking powder
-1/2 tsp salt
+11g  baking powder
+2g salt
 *Optional: mix-ins as desired (fruit, nuts, cinnamon chips)*
 
 **Grate cold into dry mix:**
