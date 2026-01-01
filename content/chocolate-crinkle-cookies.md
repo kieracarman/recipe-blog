@@ -20,6 +20,8 @@ title: Chocolate Crinkle Cookies
 
 **Mix wet and dry ingredients. Chill dough thoroughly.**
 
+**Preheat oven to 350°F.**
+
 **Roll dough into balls, roll in powdered sugar.**
 
 **Bake for 11-12 minutes.**
